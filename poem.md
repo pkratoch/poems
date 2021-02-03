@@ -1,3 +1,5 @@
+Author: unknown
+
 Baa baa black sheep,
 have you any wool?
 Yes sir, yes sir,
